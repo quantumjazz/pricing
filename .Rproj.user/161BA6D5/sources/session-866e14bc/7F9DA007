@@ -1,0 +1,31 @@
+{
+    "id": "7F9DA007",
+    "path": "~/Projects/courses/business_strategy/pricing/pricing.qmd",
+    "project_path": "pricing.qmd",
+    "type": "quarto_markdown",
+    "hash": "2423097283",
+    "contents": "",
+    "dirty": false,
+    "created": 1681833828505.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "87:0",
+        "cursorPosition": "91,253",
+        "scrollLine": "78"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681887164,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681887164049,
+    "read_only": false,
+    "read_only_alternatives": []
+}
